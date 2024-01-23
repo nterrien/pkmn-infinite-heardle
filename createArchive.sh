@@ -1,4 +1,4 @@
-version="V4.2_(Teal_Mask)"
+version="V5.0_(Filter_Feature)"
 
 filename="pkmn-infinite-heardle_"$version
 
