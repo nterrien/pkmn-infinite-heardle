@@ -13533,7 +13533,7 @@ var app = (function () {
       answer: 867,
     },
     {
-      url: "https://soundcloud.com/7hesickest/pokemon-diamond-pearl-platinum-bicycle-music",
+      url: "https://soundcloud.com/joremaster/pokemon-diamond-and-pearl-bicycle",
       answer: 352,
     },
     {
