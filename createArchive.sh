@@ -1,4 +1,4 @@
-version="V5.2"
+version="V5.3"
 
 filename="pkmn-infinite-heardle_"$version
 
