@@ -1,4 +1,4 @@
-version="V5.3"
+version="V6.0_(Indigo_Disk)"
 
 filename="pkmn-infinite-heardle_"$version
 

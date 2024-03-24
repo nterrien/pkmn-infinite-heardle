@@ -7,6 +7,10 @@ A clone of [Heardle](https://www.heardle.app/), and [K-Pop Heardle](https://hear
 code edited from: [WJSN Heardle](https://github.com/haseul/wjsn-heardle)
 <br />
 <br />
+HOW TO RUN INFINITE HEARDLE LOCALLY:
+Open **index.html** with your browser (Firefox, Chromium)
+<br />
+<br />
 HOW TO MAKE YOUR OWN INFINITE HEARDLE (UDPATED on **2022-11-20**)
 (If you want an infinite heardle that does not includes translations you can check the readme of [Etrian Infinite Heardle](https://glitch.com/edit/#!/etrian-infinite-heardle))
 
@@ -42,7 +46,7 @@ I have an example of how to do that on **line 4** [here](https://glitch.com/edit
 <br />
 <br />
 
-Feel free to tweet/dm me @beignet0 on Reddit or beignetSan on Twitch if you have any issues/questions!
+Feel free to dm me @beignet0 on Reddit, beignetSan on Twitch or beignet1139 on Discord if you have any issues/questions!
 <br />
 <br />
 
@@ -58,6 +62,10 @@ Feel free to tweet/dm me @beignet0 on Reddit or beignetSan on Twitch if you have
 Un clone de [Heardle](https://www.heardle.app/), et de [K-Pop Heardle](https://heardle-kpop.glitch.me/) qui peut être joué à l'infini et avec les musiques de Pokémon. Basé sur [Joywave Heardle](https://joywave-heardle.glitch.me/)
 
 code édité à partir de: [WJSN Heardle](https://github.com/haseul/wjsn-heardle)
+<br />
+<br />
+COMMENT FAIRE TOURNER INFINITE HEARDLE EN LOCAL:
+Ouvrez **index.html** avec votre navigateur (Firefox, Chromium)
 <br />
 <br />
 COMMENT FAIRE VOTRE PROPRE HEARDLE INFINIE (MISE À JOUR LE **2022-11-20**)
@@ -97,8 +105,7 @@ Si votre heardle devient vide/affiche une page vide une fois qu'il n'y a plus de
 le visualiser [ici](https://testerheardle.glitch.me/)
 <br />
 <br />
-
-N'hésitez pas à dm @beignet0 sur Reddit ou beignetSan sur Twitch si vous avez des problèmes/questions sur le Pokémon Infinite Heardle ! <br />
+N'hésitez pas à dm @beignet0 sur Reddit, beignetSan sur Twitch ou beignet1139 sur Discord si vous avez des problèmes/questions sur le Pokémon Infinite Heardle ! <br />
 <br />
 
 **PROBLÈMES CONNUS**
