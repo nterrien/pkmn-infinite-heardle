@@ -2,7 +2,7 @@ var app = (function () {
   var artist = "Pokémon";
   var currentIndex = 0;
   var zipUrl =
-    "https://cdn.glitch.global/689a1d86-ffe0-4981-a89f-b548a3ccd61a/pkmn-infinite-heardle_V6.0_(Indigo_Disk).zip"; // Set to '' if you don't want to allow download of the zip
+    "https://cdn.glitch.global/689a1d86-ffe0-4981-a89f-b548a3ccd61a/pkmn-infinite-heardle_V6.1.zip"; // Set to '' if you don't want to allow download of the zip
   const languages = ["fr", "en"];
   let language = "en";
   if (navigator.languages && navigator.languages.length > 0) {
@@ -10940,7 +10940,7 @@ var app = (function () {
       answer: 314,
     },
     {
-      url: "https://soundcloud.com/vouusmevoyez/pokemon-diamondpearlplatinum-lake-theme",
+      url: "https://soundcloud.com/dawnidarko/pokemon-diamondpearlplatinum-lake-theme",
       answer: 315,
     },
     {
@@ -15140,7 +15140,7 @@ var app = (function () {
       answer: 1358,
     },
     {
-      url: "https://soundcloud.com/glitchy-mario/champion-leons-theme-pokemon",
+      url: "https://soundcloud.com/sv-dlc2/lets-have-a-champion-time-sword-and-shield",
       answer: 1359,
     },
     {
@@ -17259,8 +17259,8 @@ var app = (function () {
   //// Support popup
   const supportT = { fr: "support", en: "support" };
   const supportPopupT = {
-    fr: 'Vous avez des questions ou trouvez des bugs ? Contactez Beignet0 sur Reddit, beignetSan sur Twitch ou beignet1139 sur Discord ! <br><br>Vous pouvez également jouer au <a href="https://pkmn-heardle.glitch.me/" title="Pokémon Heardle">Pokémon Heardle</a> tous les jours. Remerciez <a href="http://www.twitter.com/SgtAngel777" target="_blank">@SgtAngel777</a> et <a href="http://www.twitter.com/NickWrightData" target="_blank">@NickWrightData</a> les créateurs du Pokémon Heardle original sur Twitter ! ',
-    en: 'Have questions/run into bugs? DM Beignet0 on Reddit, beignetSan on Twitch or beignet1139 on Discord!<br><br>You can also play <a href="https://pkmn-heardle.glitch.me/" title="Pokémon Heardle">Pokémon Heardle</a> daily. Thank the Pokémon Heardle creators on Twitter! <a href="http://www.twitter.com/SgtAngel777" target="_blank">@SgtAngel777</a> and <a href="http://www.twitter.com/NickWrightData" target="_blank">@NickWrightData</a>',
+    fr: 'Vous avez des questions ou trouvez des bugs ? Contactez Beignet0 sur Reddit, beignetSan sur Twitch ou beignet1139 sur Discord ! <br><br>Vous pouvez également jouer au <a href="https://pkmn-heardle.glitch.me/" title="Pokémon Heardle">Pokémon Heardle</a> tous les jours. Remerciez <a href="http://www.twitter.com/SgtAngel777" target="_blank">@SgtAngel777</a> et <a href="http://www.twitter.com/NickWrightData" target="_blank">@NickWrightData</a> les créateurs du Pokémon Heardle original sur Twitter !<br><br>Il existe également une version pour <a href="https://pkmn-md-infinite-heardle.glitch.me/">Pokémon Donjon Mystère</a> grâce à Ipfil.',
+    en: 'Have questions/run into bugs? DM Beignet0 on Reddit, beignetSan on Twitch or beignet1139 on Discord!<br><br>You can also play <a href="https://pkmn-heardle.glitch.me/" title="Pokémon Heardle">Pokémon Heardle</a> daily. Thank the Pokémon Heardle creators on Twitter! <a href="http://www.twitter.com/SgtAngel777" target="_blank">@SgtAngel777</a> and <a href="http://www.twitter.com/NickWrightData" target="_blank">@NickWrightData</a><br><br>There\'s also a version for <a href="https://pkmn-md-infinite-heardle.glitch.me/">Pokémon Mystery Dungeon</a>, thanks to Ipfil.',
   };
   //// How to play popup
   const howToPlayT = { fr: "Comment jouer", en: "how to play" };
