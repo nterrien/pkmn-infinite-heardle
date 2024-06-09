@@ -2,7 +2,7 @@ var app = (function () {
   var artist = "Pokémon";
   var currentIndex = 0;
   var zipUrl =
-    "https://cdn.glitch.global/689a1d86-ffe0-4981-a89f-b548a3ccd61a/pkmn-infinite-heardle_V7.1.zip"; // Set to '' if you don't want to allow download of the zip
+    "https://cdn.glitch.global/689a1d86-ffe0-4981-a89f-b548a3ccd61a/pkmn-infinite-heardle_V7.2.zip"; // Set to '' if you don't want to allow download of the zip
   const languages = ["fr", "en"];
   let language = "en";
   if (navigator.languages && navigator.languages.length > 0) {
@@ -43,7 +43,7 @@ var app = (function () {
     // Source name and order :
     //    https://bulbapedia.bulbagarden.net/wiki/Game_Boy:_Entire_Pok%C3%A9mon_Sounds_Collection_CD
     //    https://vgmdb.net/album/141
-    //    https://www.sittingonclouds.to/album/736
+    //    https://www.sittingonclouds.com/album/736
     // Source traduction (partiel):
     //    https://music.apple.com/fr/album/pok%C3%A9mon-rouge-feu-et-pok%C3%A9mon-vert-feuille-super-music/880123575
     {
@@ -933,7 +933,7 @@ var app = (function () {
     // Source name and order :
     //    https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Ruby_%26_Pok%C3%A9mon_Sapphire:_Super_Music_Collection
     //    https://vgmdb.net/album/1024
-    //    https://www.sittingonclouds.to/album/1034
+    //    https://www.sittingonclouds.com/album/1034
     // Source traduction :
     //    https://music.apple.com/fr/album/pok%C3%A9mon-rubis-et-pok%C3%A9mon-saphir-super-music-collection/880478090
     {
@@ -1508,7 +1508,7 @@ var app = (function () {
     // Source name and order :
     //    https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_FireRed_%26_Pok%C3%A9mon_LeafGreen:_Super_Music_Collection
     //    https://vgmdb.net/album/4336
-    //    https://www.sittingonclouds.to/album/1007
+    //    https://www.sittingonclouds.com/album/1007
     // Source traduction :
     //    https://music.apple.com/fr/album/pok%C3%A9mon-rouge-feu-et-pok%C3%A9mon-vert-feuille-super-music/880123575
     {
@@ -1870,7 +1870,7 @@ var app = (function () {
     // Source name and order : Disc 4 of :
     //    https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Black_2_%26_Pok%C3%A9mon_White_2:_Super_Music_Collection
     //    https://vgmdb.net/album/33367
-    //    https://www.sittingonclouds.to/album/458
+    //    https://www.sittingonclouds.com/album/458
     // Source traduction :
     //    https://music.apple.com/fr/album/pok%C3%A9mon-noir-2-et-pok%C3%A9mon-blanc-2-super-music-collection/880137987
     {
@@ -1962,7 +1962,7 @@ var app = (function () {
     // Source name and order :
     //    https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Diamond_%26_Pok%C3%A9mon_Pearl:_Super_Music_Collection
     //    https://vgmdb.net/album/3945
-    //    https://www.sittingonclouds.to/album/799
+    //    https://www.sittingonclouds.com/album/799
     // Source traduction:
     //    https://music.apple.com/fr/album/pok%C3%A9mon-diamant-et-pok%C3%A9mon-perle-super-music-collection/880117263
     {
@@ -2805,7 +2805,7 @@ var app = (function () {
     // Source name and order : Disc 4 of :
     //    https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Black_2_%26_Pok%C3%A9mon_White_2:_Super_Music_Collection
     //    https://vgmdb.net/album/33367
-    //    https://www.sittingonclouds.to/album/458
+    //    https://www.sittingonclouds.com/album/458
     // Source traduction :
     //    https://music.apple.com/fr/album/pok%C3%A9mon-noir-2-et-pok%C3%A9mon-blanc-2-super-music-collection/880137987
     {
@@ -2981,7 +2981,7 @@ var app = (function () {
     // Source name and order :
     //    https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_HeartGold_%26_Pok%C3%A9mon_SoulSilver:_Super_Music_Collection
     //    https://vgmdb.net/album/15237
-    //    https://www.sittingonclouds.to/album/817
+    //    https://www.sittingonclouds.com/album/817
     // Source traduction :
     //    https://music.apple.com/fr/album/pok%C3%A9mon-heartgold-et-pok%C3%A9mon-soulsilver-super-music/880662983
     {
@@ -3818,7 +3818,7 @@ var app = (function () {
     // Source name and order :
     //    https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Black_%26_Pok%C3%A9mon_White:_Super_Music_Collection
     //    https://vgmdb.net/album/20831
-    //    https://www.sittingonclouds.to/album/332
+    //    https://www.sittingonclouds.com/album/332
     // Source seasons :
     //    https://www.youtube.com/watch?v=QqK1G2NFHq8
     //    https://www.youtube.com/watch?v=8Xvn_swOoe8
@@ -4760,7 +4760,7 @@ var app = (function () {
     // Source name and order :
     //    https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Black_2_%26_Pok%C3%A9mon_White_2:_Super_Music_Collection
     //    https://vgmdb.net/album/33367
-    //    https://www.sittingonclouds.to/album/458
+    //    https://www.sittingonclouds.com/album/458
     // Source traduction :
     //    https://music.apple.com/fr/album/pok%C3%A9mon-noir-2-et-pok%C3%A9mon-blanc-2-super-music-collection/880137987
     {
@@ -5460,7 +5460,7 @@ var app = (function () {
     // Source name and order :
     //    https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_X_%26_Pok%C3%A9mon_Y:_Super_Music_Collection
     //    https://vgmdb.net/album/41066
-    //    https://www.sittingonclouds.to/album/420
+    //    https://www.sittingonclouds.com/album/420
     // Source traduction :
     //    https://music.apple.com/fr/album/pok%C3%A9mon-x-et-pok%C3%A9mon-y-super-music-collection/880148373
     {
@@ -6248,7 +6248,7 @@ var app = (function () {
     // Source name and order :
     //    https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Omega_Ruby_%26_Pok%C3%A9mon_Alpha_Sapphire:_Super_Music_Collection
     //    https://vgmdb.net/album/48057
-    //    https://www.sittingonclouds.to/album/1021
+    //    https://www.sittingonclouds.com/album/1021
     // Source traduction (partiel):
     //    https://music.apple.com/fr/album/pok%C3%A9mon-rubis-et-pok%C3%A9mon-saphir-super-music-collection/880478090
     {
@@ -7804,7 +7804,7 @@ var app = (function () {
 
     //// Ultra Sun/Ultra Moon
     // Source name and order :
-    //    https://www.sittingonclouds.to/album/13
+    //    https://www.sittingonclouds.com/album/13
 
     // Source traduction: Aucune
     {
@@ -8016,7 +8016,7 @@ var app = (function () {
     // Source name and order :
     //      https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon:_Let%27s_Go,_Pikachu!_%26_Pok%C3%A9mon:_Let%27s_Go,_Eevee!_Super_Music_Collection
     //      https://vgmdb.net/album/80458
-    //      https://www.sittingonclouds.to/album/1172
+    //      https://www.sittingonclouds.com/album/1172
     // Source traduction (partiel):
     //    https://music.apple.com/fr/album/pok%C3%A9mon-rouge-feu-et-pok%C3%A9mon-vert-feuille-super-music/880123575
     {
@@ -8141,8 +8141,8 @@ var app = (function () {
     },
     {
       id: 1321,
-      en: "Rival Trace's Theme - Let's Go, Pikachu/Eevee!",
-      fr: "Thème du Rival Trace - Let's Go, Pikachu/Évoli",
+      en: "Blue’s Theme - Let's Go, Pikachu/Eevee!",
+      fr: "Thème de Blue - Let's Go, Pikachu/Évoli",
       tags: ["Characters"],
     },
     {
@@ -9098,7 +9098,7 @@ var app = (function () {
     },
 
     //// Brilliant Diamond/Shining Pearl
-    // Source name and order : https://www.sittingonclouds.to/album/2020
+    // Source name and order : https://www.sittingonclouds.com/album/2020
     // Source traduction (partiel):
     //    https://music.apple.com/fr/album/pok%C3%A9mon-diamant-et-pok%C3%A9mon-perle-super-music-collection/880117263
     {
