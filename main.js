@@ -2,7 +2,7 @@ var app = (function () {
   var artist = "Pokémon";
   var currentIndex = 0;
   var zipUrl =
-    "https://cdn.glitch.global/689a1d86-ffe0-4981-a89f-b548a3ccd61a/pkmn-infinite-heardle_V7.0_(Tags).zip"; // Set to '' if you don't want to allow download of the zip
+    "https://cdn.glitch.global/689a1d86-ffe0-4981-a89f-b548a3ccd61a/pkmn-infinite-heardle_V7.1.zip"; // Set to '' if you don't want to allow download of the zip
   const languages = ["fr", "en"];
   let language = "en";
   if (navigator.languages && navigator.languages.length > 0) {
@@ -16836,7 +16836,7 @@ var app = (function () {
       answer: 1309,
     },
     {
-      url: "https://soundcloud.com/user-681426033/a-trainer-appears-boy-pokemon-lets-go-pikachu-lets-go-eevee",
+      url: "https://soundcloud.com/bw2-187523711/trainers-eyes-meet-boy-pokemon-lets-go-pikachueevee",
       answer: 1310,
     },
     {

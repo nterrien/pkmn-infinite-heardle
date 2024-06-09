@@ -1,4 +1,4 @@
-version="V7.0_(Tags)"
+version="V7.1"
 
 filename="pkmn-infinite-heardle_"$version
 
