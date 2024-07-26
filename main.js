@@ -2,7 +2,7 @@ var app = (function () {
   var artist = "Pokémon";
   var currentIndex = 0;
   var zipUrl =
-    "https://cdn.glitch.global/689a1d86-ffe0-4981-a89f-b548a3ccd61a/pkmn-infinite-heardle_V7.3.zip"; // Set to '' if you don't want to allow download of the zip
+    "https://cdn.glitch.global/689a1d86-ffe0-4981-a89f-b548a3ccd61a/pkmn-infinite-heardle_V7.4.zip"; // Set to '' if you don't want to allow download of the zip
   const languages = ["fr", "en"];
   let language = "en";
   if (navigator.languages && navigator.languages.length > 0) {
@@ -6645,7 +6645,7 @@ var app = (function () {
       id: 1075,
       en: "Mt. Pyre Exterior - Omega Ruby/Alpha Sapphire",
       fr: "Extérieur du Mont Mémoria - Rubis Oméga/Saphir Alpha",
-      tags: ["Characters"],
+      tags: ["Outdoor Location"],
     },
     {
       id: 1076,
@@ -15232,7 +15232,7 @@ var app = (function () {
       answer: 908,
     },
     {
-      url: "https://soundcloud.com/user-491049325/pokemon-x-y-prof-sycamores",
+      url: "https://soundcloud.com/sv-dlc2/professor-sycamores-theme",
       answer: 909,
     },
     {
