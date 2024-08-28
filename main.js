@@ -2,7 +2,7 @@ var app = (function () {
   var artist = "Pokémon";
   var currentIndex = 0;
   var zipUrl =
-    "https://cdn.glitch.global/689a1d86-ffe0-4981-a89f-b548a3ccd61a/pkmn-infinite-heardle_V7.4.zip"; // Set to '' if you don't want to allow download of the zip
+    "https://cdn.glitch.global/689a1d86-ffe0-4981-a89f-b548a3ccd61a/pkmn-infinite-heardle_V7.5.zip"; // Set to '' if you don't want to allow download of the zip
   const languages = ["fr", "en"];
   let language = "en";
   if (navigator.languages && navigator.languages.length > 0) {
@@ -1635,7 +1635,7 @@ var app = (function () {
       id: 256,
       en: "Tense Battle! - FireRed/LeafGreen",
       fr: "Combat: la tension monte! - Rouge Feu/Vert Feuille",
-      tags: ["Battles"],
+      tags: ["Encounters"],
     },
     {
       id: 257,
@@ -2733,7 +2733,7 @@ var app = (function () {
       id: 436,
       en: "Decisive Battle! (Pokémon League) - Diamond/Pearl",
       fr: "Combat décisif! (Pokémon League) - Diamant/Perle",
-      tags: ["Battles"],
+      tags: ["Buildings"],
     },
     {
       id: 437,
@@ -9750,18 +9750,6 @@ var app = (function () {
       tags: ["Mini Games"],
     },
     {
-      id: 1584,
-      en: "Dance ~ Easy - Brilliant Diamond/Shining Pearl",
-      fr: "Danse ~ Facile - Diamant Étincelant/Perle Scintillante",
-      tags: ["Mini Games"],
-    },
-    {
-      id: 1585,
-      en: "Dance ~ Difficult - Brilliant Diamond/Shining Pearl",
-      fr: "Danse ~ Difficile - Diamant Étincelant/Perle Scintillante",
-      tags: ["Mini Games"],
-    },
-    {
       id: 1586,
       en: "Super Contest Show: Beauty - Brilliant Diamond/Shining Pearl",
       fr: "Super Show Concours: Beauté - Diamant Étincelant/Perle Scintillante",
@@ -9789,6 +9777,18 @@ var app = (function () {
       id: 1590,
       en: "Super Contest Show: Toughness - Brilliant Diamond/Shining Pearl",
       fr: "Super Show Concours: Robustesse - Diamant Étincelant/Perle Scintillante",
+      tags: ["Mini Games"],
+    },
+    {
+      id: 1584,
+      en: "Super Contest Show: Brilliant (Diamond) - Brilliant Diamond/Shining Pearl",
+      fr: "Super Show Concours: Étincelant (Diamant) - Diamant Étincelant/Perle Scintillante",
+      tags: ["Mini Games"],
+    },
+    {
+      id: 1585,
+      en: "Super Contest Show: Shining (Pearl) - Brilliant Diamond/Shining Pearl",
+      fr: "Super Show Concours: Scintillant (Perle) - Diamant Étincelant/Perle Scintillante",
       tags: ["Mini Games"],
     },
     {
@@ -9861,7 +9861,7 @@ var app = (function () {
       id: 1602,
       en: "Decisive Battle! (Pokémon League) - Brilliant Diamond/Shining Pearl",
       fr: "Combat décisif! (Ligue Pokémon) - Diamant Étincelant/Perle Scintillante",
-      tags: ["Battles"],
+      tags: ["Buildings"],
     },
     {
       id: 1603,
@@ -11780,7 +11780,7 @@ var app = (function () {
       answer: 52,
     },
     {
-      url: "https://soundcloud.com/gscsoundtrack/battle-wild-pokemon",
+      url: "https://soundcloud.com/user-672647307/battle-wild-pokemon-johto-day",
       answer: 53,
     },
     {
