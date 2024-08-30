@@ -2,7 +2,7 @@ var app = (function () {
   var artist = "Pokémon";
   var currentIndex = 0;
   var zipUrl =
-    "https://cdn.glitch.global/689a1d86-ffe0-4981-a89f-b548a3ccd61a/pkmn-infinite-heardle_V7.7.zip"; // Set to '' if you don't want to allow download of the zip
+    "https://cdn.glitch.global/689a1d86-ffe0-4981-a89f-b548a3ccd61a/pkmn-infinite-heardle_V7.8.zip"; // Set to '' if you don't want to allow download of the zip
   const languages = ["fr", "en"];
   let language = "en";
   if (navigator.languages && navigator.languages.length > 0) {
@@ -11469,8 +11469,8 @@ var app = (function () {
     },
     {
       id: 1858,
-      en: "Battle! (Terapagos) - Scarlet/Violet (The Indigo Disk)",
-      fr: "Combat! (Terapagos) - Écarlate/Violet (Le Disque Indigo)",
+      en: "Battle! (Terapagos & Kieran) - Scarlet/Violet (The Indigo Disk)",
+      fr: "Combat! (Terapagos & Kassis) - Écarlate/Violet (Le Disque Indigo)",
       tags: ["Battles"],
     },
     {
@@ -11487,8 +11487,8 @@ var app = (function () {
     },
     {
       id: 1861,
-      en: "Battle! (Terapagos ~ The Hidden Treasure of Area Zero) - Scarlet/Violet (The Indigo Disk)",
-      fr: "Combat! (Terapagos ~ le Disque Indigo) - Écarlate/Violet (Le Disque Indigo)",
+      en: "Battle! (Terapagos ~ The Hidden Treasure of Area Zero (Stellar Form)) - Scarlet/Violet (The Indigo Disk)",
+      fr: "Combat! (Terapagos ~ le trésor enfoui de la Zone Zéro (Forme Stellaire)) - Écarlate/Violet (Le Disque Indigo)",
       tags: ["Battles"],
     },
     {
