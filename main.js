@@ -2,7 +2,7 @@ var app = (function () {
   var artist = "Pokémon";
   var currentIndex = 0;
   var zipUrl =
-    "https://cdn.glitch.global/689a1d86-ffe0-4981-a89f-b548a3ccd61a/pkmn-infinite-heardle_V7.8.zip"; // Set to '' if you don't want to allow download of the zip
+    "https://cdn.glitch.global/689a1d86-ffe0-4981-a89f-b548a3ccd61a/pkmn-infinite-heardle_V7.9.zip"; // Set to '' if you don't want to allow download of the zip
   const languages = ["fr", "en"];
   let language = "en";
   if (navigator.languages && navigator.languages.length > 0) {
@@ -78,9 +78,9 @@ var app = (function () {
     },
     {
       id: 5,
-      en: "Rival Appears - Red/Blue",
-      fr: "Le rival apparaît - Rouge/Bleue",
-      tags: ["Encounters"],
+      en: "Rival Appears/Blue's Theme- Red/Blue",
+      fr: "Le rival apparaît/Thème de Blue - Rouge/Bleue",
+      tags: ["Encounters", "Characters"],
     },
     {
       id: 6,
@@ -266,7 +266,7 @@ var app = (function () {
       id: 36,
       en: "Cinnabar Island Theme - Red/Blue",
       fr: "Cramois'Île - Rouge/Bleue",
-      tags: ["Characters"],
+      tags: ["Cities"],
     },
     {
       id: 37,
@@ -488,9 +488,9 @@ var app = (function () {
     },
     {
       id: 71,
-      en: "A Rival Appears! - Gold/Silver",
-      fr: "Le rival apparaît! - Or/Argent",
-      tags: ["Encounters"],
+      en: "A Rival Appears!/Silver's Theme - Gold/Silver",
+      fr: "Le rival apparaît!/Thème de Silver - Or/Argent",
+      tags: ["Encounters", "Characters"],
     },
     {
       id: 72,
@@ -637,9 +637,9 @@ var app = (function () {
     },
     {
       id: 95,
-      en: "A Rival Appears! (Version 2) - Gold/Silver",
-      fr: "Le rival apparaît! (Version 2) - Or/Argent",
-      tags: ["Encounters"],
+      en: "A Rival Appears!/Silver's Theme (Version 2) - Gold/Silver",
+      fr: "Le rival apparaît!/Thème de Silver (Version 2) - Or/Argent",
+      tags: ["Characters"],
     },
     {
       id: 96,
@@ -1555,9 +1555,9 @@ var app = (function () {
     },
     {
       id: 243,
-      en: "Rival Appears - FireRed/LeafGreen",
-      fr: "Le rival apparaît - Rouge Feu/Vert Feuille",
-      tags: ["Encounters"],
+      en: "Rival Appears/Blue's Theme - FireRed/LeafGreen",
+      fr: "Le rival apparaît/Thème de Blue - Rouge Feu/Vert Feuille",
+      tags: ["Encounters", "Characters"],
     },
     {
       id: 244,
@@ -1761,7 +1761,7 @@ var app = (function () {
       id: 277,
       en: "Cinnabar Island Theme - FireRed/LeafGreen",
       fr: "Cramois'Île - Rouge Feu/Vert Feuille",
-      tags: ["Characters"],
+      tags: ["Cities"],
     },
     {
       id: 278,
@@ -3160,9 +3160,9 @@ var app = (function () {
     },
     {
       id: 503,
-      en: "A Rival Appears! - HeartGold/SoulSilver",
-      fr: "Le rival apparaît - Or HeartGold/Argent SoulSilver",
-      tags: ["Encounters"],
+      en: "A Rival Appears!/Silver's Theme - HeartGold/SoulSilver",
+      fr: "Le rival apparaît!/Thème de Silver - Or HeartGold/Argent SoulSilver",
+      tags: ["Encounters", "Characters"],
     },
     {
       id: 504,
@@ -3335,9 +3335,9 @@ var app = (function () {
     },
     {
       id: 532,
-      en: "A Rival Appears! (Version 2) - HeartGold/SoulSilver",
-      fr: "Le rival apparaît (Version 2) - Or HeartGold/Argent SoulSilver",
-      tags: ["Encounters"],
+      en: "A Rival Appears!/Silver's Theme (Version 2) - HeartGold/SoulSilver",
+      fr: "Le rival apparaît!/Thème de Silver (Version 2) - Or HeartGold/Argent SoulSilver",
+      tags: ["Characters"],
     },
     {
       id: 533,
@@ -5473,7 +5473,7 @@ var app = (function () {
       id: 881,
       en: "Kalos Region Theme - X/Y",
       fr: "Thème de la région de Kalos - X/Y",
-      tags: ["Characters"],
+      tags: ["Story Events"],
     },
     {
       id: 882,
@@ -11073,14 +11073,14 @@ var app = (function () {
     },
     {
       id: 1795,
-      en: "Battle! (Paradise Protection Protocol) ~ Phase 1 - Scarlet/Violet",
-      fr: 'Combat! (Programme "Défense Paradis") ~ Phase 1 - Écarlate/Violet',
-      tags: ["Battles"],
+      en: "Koraidon/Miraidon Battle Form - Scarlet/Violet",
+      fr: "Forme Combat de Koraidon/Miraidon - Écarlate/Violet",
+      tags: ["Story Events"],
     },
     {
       id: 1796,
-      en: "Battle! (Paradise Protection Protocol) ~ Phase 2 - Scarlet/Violet",
-      fr: 'Combat! (Programme "Défense Paradis") ~ Phase 2 - Écarlate/Violet',
+      en: "Battle! (Paradise Protection Protocol) - Scarlet/Violet",
+      fr: 'Combat! (Programme "Défense Paradis") - Écarlate/Violet',
       tags: ["Battles"],
     },
     {
