@@ -2,7 +2,7 @@ var app = (function () {
   var artist = "Pokémon";
   var currentIndex = 0;
   var zipUrl =
-    "https://cdn.glitch.global/689a1d86-ffe0-4981-a89f-b548a3ccd61a/pkmn-infinite-heardle_V7.9.zip"; // Set to '' if you don't want to allow download of the zip
+    "https://cdn.glitch.global/689a1d86-ffe0-4981-a89f-b548a3ccd61a/pkmn-infinite-heardle_V7.10.zip"; // Set to '' if you don't want to allow download of the zip
   const languages = ["fr", "en"];
   let language = "en";
   if (navigator.languages && navigator.languages.length > 0) {
@@ -11744,7 +11744,7 @@ var app = (function () {
       answer: 43,
     },
     {
-      url: "https://soundcloud.com/vgmplanet/48-musashi-and-kojiro-theme",
+      url: "https://soundcloud.com/1239876197497124/yellow-musashi-and-kojiro",
       answer: 44,
     },
     {
@@ -13208,7 +13208,7 @@ var app = (function () {
       answer: 408,
     },
     {
-      url: "https://soundcloud.com/user-906610389/pokemon-diamond-pearl-snowpoint-city-night",
+      url: "https://soundcloud.com/sv-dlc2/snowpoint-city-night-pokemon-diamond-and-pearl",
       answer: 409,
     },
     {
@@ -18196,7 +18196,7 @@ var app = (function () {
       answer: 1646,
     },
     {
-      url: "https://soundcloud.com/iratina/night-poke-mon-legends-arceus",
+      url: "https://soundcloud.com/vgm-dosage/field-night-pokemon-legends-arceus",
       answer: 1647,
     },
     {
@@ -18256,7 +18256,7 @@ var app = (function () {
       answer: 1661,
     },
     {
-      url: "https://soundcloud.com/iratina/looming-disaster-poke-mon",
+      url: "https://soundcloud.com/sv-dlc2/expulsion-legend-arceus",
       answer: 1662,
     },
     {
