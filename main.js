@@ -2,7 +2,7 @@ var app = (function () {
   var artist = "Pokémon";
   var currentIndex = 0;
   var zipUrl =
-    "https://cdn.glitch.global/689a1d86-ffe0-4981-a89f-b548a3ccd61a/pkmn-infinite-heardle_V7.10.zip"; // Set to '' if you don't want to allow download of the zip
+    "https://cdn.glitch.global/689a1d86-ffe0-4981-a89f-b548a3ccd61a/pkmn-infinite-heardle_V7.11.zip"; // Set to '' if you don't want to allow download of the zip
   const languages = ["fr", "en"];
   let language = "en";
   if (navigator.languages && navigator.languages.length > 0) {
@@ -78,7 +78,7 @@ var app = (function () {
     },
     {
       id: 5,
-      en: "Rival Appears/Blue's Theme- Red/Blue",
+      en: "Rival Appears/Blue's Theme - Red/Blue",
       fr: "Le rival apparaît/Thème de Blue - Rouge/Bleue",
       tags: ["Encounters", "Characters"],
     },
