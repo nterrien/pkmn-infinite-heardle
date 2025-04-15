@@ -2,7 +2,7 @@ var app = (function () {
   var artist = "Pokémon";
   var currentIndex = 0;
   var zipUrl =
-    "https://cdn.glitch.global/689a1d86-ffe0-4981-a89f-b548a3ccd61a/pkmn-infinite-heardle_V7.12.zip"; // Set to '' if you don't want to allow download of the zip
+    "https://cdn.glitch.global/689a1d86-ffe0-4981-a89f-b548a3ccd61a/pkmn-infinite-heardle_V7.13.zip"; // Set to '' if you don't want to allow download of the zip
   const languages = ["fr", "en"];
   let language = "en";
   if (navigator.languages && navigator.languages.length > 0) {
@@ -11596,11 +11596,11 @@ var app = (function () {
       answer: 6,
     },
     {
-      url: "https://soundcloud.com/vgmc/battle-vs-wild-pokemon-pokemon",
+      url: "https://soundcloud.com/karurosu-844572453/07-wild-pokemon-battle-pokemon",
       answer: 7,
     },
     {
-      url: "https://soundcloud.com/vgmc/victory-vs-wild-pokemon",
+      url: "https://soundcloud.com/karurosu-844572453/08-victory-fanfare-vs-wild",
       answer: 8,
     },
     {
@@ -11616,11 +11616,11 @@ var app = (function () {
       answer: 11,
     },
     {
-      url: "https://soundcloud.com/vgmc/hurry-along-pokemon-red-blue",
+      url: "https://soundcloud.com/karurosu-844572453/13-guidepost-pokemon",
       answer: 12,
     },
     {
-      url: "https://soundcloud.com/vgmc/trainer-appears-girl-version",
+      url: "https://soundcloud.com/karurosu-844572453/14-female-trainer-appears",
       answer: 13,
     },
     {
@@ -11628,7 +11628,7 @@ var app = (function () {
       answer: 14,
     },
     {
-      url: "https://soundcloud.com/vgmc/victory-vs-trainer-pokemon-red",
+      url: "https://soundcloud.com/karurosu-844572453/16-victory-fanfare-vs-trainer",
       answer: 15,
     },
     {
@@ -11652,7 +11652,7 @@ var app = (function () {
       answer: 20,
     },
     {
-      url: "https://soundcloud.com/vgmc/vermilion-citys-theme-pokemon",
+      url: "https://soundcloud.com/karurosu-844572453/23-vermillion-city-theme",
       answer: 21,
     },
     {
@@ -11664,7 +11664,7 @@ var app = (function () {
       answer: 23,
     },
     {
-      url: "https://soundcloud.com/vgmc/trainer-appears-boy-version",
+      url: "https://soundcloud.com/karurosu-844572453/27-male-trainer-appears",
       answer: 24,
     },
     {
@@ -11672,7 +11672,7 @@ var app = (function () {
       answer: 25,
     },
     {
-      url: "https://soundcloud.com/vgmc/victory-vs-gym-leader-pokemon",
+      url: "https://soundcloud.com/karurosu-844572453/29-victory-fanfare-vs-gym",
       answer: 26,
     },
     {
@@ -11696,7 +11696,7 @@ var app = (function () {
       answer: 31,
     },
     {
-      url: "https://soundcloud.com/vgmc/trainer-appears-bad-guy",
+      url: "https://soundcloud.com/karurosu-844572453/35-rocket-trainer-appears",
       answer: 32,
     },
     {
@@ -11720,7 +11720,7 @@ var app = (function () {
       answer: 37,
     },
     {
-      url: "https://soundcloud.com/vgmc/evolution-pokemon-red-blue",
+      url: "https://soundcloud.com/karurosu-844572453/41-evolution-theme-pokemon",
       answer: 38,
     },
     {
@@ -12560,7 +12560,7 @@ var app = (function () {
       answer: 246,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-firered-and-404769877",
+      url: "https://soundcloud.com/sv-dlc2/pewter-city-theme-pokemon-firered-leafgreen",
       answer: 247,
     },
     {
@@ -13216,7 +13216,7 @@ var app = (function () {
       answer: 410,
     },
     {
-      url: "https://soundcloud.com/robokdt/lake-caverns",
+      url: "https://soundcloud.com/sv-dlc2/lake-caverns-pokemon-diamond-pearl",
       answer: 411,
     },
     {
@@ -17640,7 +17640,7 @@ var app = (function () {
       answer: 1508,
     },
     {
-      url: "https://soundcloud.com/payton-lyle/pokemon-brilliant-diamond",
+      url: "https://soundcloud.com/sv-dlc2/battle-team-galactic-pokemon-brilliant-diamond-shining-pearl",
       answer: 1509,
     },
     {
@@ -17656,7 +17656,7 @@ var app = (function () {
       answer: 1512,
     },
     {
-      url: "https://soundcloud.com/payton-lyle/pokemon-brilliant-diamond-2",
+      url: "https://soundcloud.com/sv-dlc2/battle-team-galactic-commander-pokemon-brilliant-diamond-shining-pearl",
       answer: 1513,
     },
     {
@@ -17748,7 +17748,7 @@ var app = (function () {
       answer: 1535,
     },
     {
-      url: "https://soundcloud.com/payton-lyle/pokemon-brilliant-diamond-4",
+      url: "https://soundcloud.com/sv-dlc2/battle-dialga-palkia-pokemon-brilliant-diamond-shining-pearl",
       answer: 1536,
     },
     {
@@ -17904,7 +17904,7 @@ var app = (function () {
       answer: 1574,
     },
     {
-      url: "https://soundcloud.com/payton-lyle/pokemon-brilliant-diamond-1",
+      url: "https://soundcloud.com/jacob-morales-32/pokemon-brilliant-diamond-1",
       answer: 1575,
     },
     {
@@ -18116,7 +18116,7 @@ var app = (function () {
       answer: 1626,
     },
     {
-      url: "https://soundcloud.com/cypcyp77/pokemon-legends-arceus-wild-battle-theme",
+      url: "https://soundcloud.com/trevor-walton-136612129/pokemon-legends-arceus-wild",
       answer: 1627,
     },
     {
@@ -18244,7 +18244,7 @@ var app = (function () {
       answer: 1658,
     },
     {
-      url: "https://soundcloud.com/iratina/alabaster-icelands-2-poke-mon",
+      url: "https://soundcloud.com/sv-dlc2/alabaster-icelands-2-pokemon-legends-arceus",
       answer: 1659,
     },
     {
@@ -18252,7 +18252,7 @@ var app = (function () {
       answer: 1660,
     },
     {
-      url: "https://soundcloud.com/iratina/banished-from-jubilife-village",
+      url: "https://soundcloud.com/sv-dlc2/suspicion-pokemon-legends-arceus",
       answer: 1661,
     },
     {
@@ -18280,7 +18280,7 @@ var app = (function () {
       answer: 1667,
     },
     {
-      url: "https://soundcloud.com/iratina/lake-cavern-theme-poke-mon",
+      url: "https://soundcloud.com/sv-dlc2/lake-cavity-pokemon-legends-arceus",
       answer: 1668,
     },
     {
@@ -18368,7 +18368,7 @@ var app = (function () {
       answer: 1688,
     },
     {
-      url: "https://soundcloud.com/iratina/hall-of-origin-poke-mon",
+      url: "https://soundcloud.com/sv-dlc2/hall-of-origin-pokemon-legends-arceus",
       answer: 1689,
     },
     {
@@ -18380,11 +18380,11 @@ var app = (function () {
       answer: 1691,
     },
     // {
-    //  url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-1",
+    //  url: "soundcloud.com/user-675036643/pokemon-scarlet-and-violet-1",
     //  answer: -9,
     // },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-3",
+      url: "https://soundcloud.com/infinitexd3/1-3-welcome-to-the-world-of",
       answer: 1692,
     },
     {
@@ -18400,23 +18400,23 @@ var app = (function () {
       answer: 1695,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-831057051",
+      url: "https://soundcloud.com/infinitexd3/1-8-lively-starter-pokemon",
       answer: 1696,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-nemonas-theme",
+      url: "https://soundcloud.com/infinitexd3/1-9-nemonas-theme",
       answer: 1697,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-nemona-battle-theme",
+      url: "https://soundcloud.com/infinitexd3/1-10-battle-nemona",
       answer: 1698,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-poco-path",
+      url: "https://soundcloud.com/infinitexd3/1-11-poco-path",
       answer: 1699,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-wild-pokemon-battle-theme-2",
+      url: "https://soundcloud.com/infinitexd3/1-12-battle-wild-pokemon",
       answer: 1700,
     },
     {
@@ -18424,11 +18424,11 @@ var app = (function () {
       answer: 1701,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-inlet-grotto",
+      url: "https://soundcloud.com/infinitexd3/1-16-inlet-grotto",
       answer: 1702,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-799713198",
+      url: "https://soundcloud.com/infinitexd3/1-17-battle-wild-pokemon-inlet",
       answer: 1703,
     },
     {
@@ -18436,35 +18436,35 @@ var app = (function () {
       answer: 1704,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-880646946",
+      url: "https://soundcloud.com/infinitexd3/1-19-arvens-theme",
       answer: 1705,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-arvens-battle-theme",
+      url: "https://soundcloud.com/infinitexd3/1-20-battle-arven",
       answer: 1706,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-field-theme-south-province",
+      url: "https://soundcloud.com/sv-dlc2/south-province-riding-no-intro-pokemon-scarlet-violet-3",
       answer: 1707,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-wild-battle-theme-full-version",
+      url: "https://soundcloud.com/infinitexd3/1-23-battle-southern-pokemon",
       answer: 1708,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-pokemon-center",
+      url: "https://soundcloud.com/infinitexd3/1-30-pokemon-center",
       answer: 1709,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-los-platos-cortondo",
+      url: "https://soundcloud.com/infinitexd3/1-29-los-platos-cortondo",
       answer: 1710,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-south-province-area-one-piano-version",
+      url: "https://soundcloud.com/sv-dlc2/south-province-walking-no-intro-pokemon-scarlet-violet-4",
       answer: 1711,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-mesagoza-piano-version",
+      url: "https://soundcloud.com/infinitexd3/1-35-mesagoza",
       answer: 1712,
     },
     {
@@ -18472,23 +18472,23 @@ var app = (function () {
       answer: 1713,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-team-star-appears",
+      url: "https://soundcloud.com/infinitexd3/1-38-team-star-appears",
       answer: 1714,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-violet-ost-team-star-grunt-battle-theme",
+      url: "https://soundcloud.com/infinitexd3/1-39-battle-team-star",
       answer: 1715,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-naranja-academy-theme-main",
+      url: "https://soundcloud.com/infinitexd3/1-37-mesagoza-riding",
       answer: 1716,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-cassiopeias-theme",
+      url: "https://soundcloud.com/infinitexd3/1-42-cassiopeias-theme",
       answer: 1717,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-professor-sada-and-turos-theme",
+      url: "https://soundcloud.com/infinitexd3/1-41-professor-sada-professor",
       answer: 1718,
     },
     {
@@ -18496,23 +18496,23 @@ var app = (function () {
       answer: 1719,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-trainers-eyes-meet",
+      url: "https://soundcloud.com/infiniteshadowx34/2-1-trainers-eyes-meet",
       answer: 1720,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-trainer-battle-theme",
+      url: "https://soundcloud.com/karninecrow/pokemon-scarlet-violet-ost-1",
       answer: 1721,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-195074853",
+      url: "https://soundcloud.com/sv-dlc2/victory-trainer-battle-pokemon-scarlet-violet-6",
       answer: 1722,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-making-a-sandwich",
+      url: "https://soundcloud.com/infinitexd3/1-63-lets-make-a-sandwich",
       answer: 1723,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-lets-have-some-food",
+      url: "https://soundcloud.com/infinitexd3/1-48-taste-test",
       answer: 1724,
     },
     {
@@ -18520,19 +18520,19 @@ var app = (function () {
       answer: 1725,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-gym-lobby-theme",
+      url: "https://soundcloud.com/infinitexd3/1-50-gym-lobby",
       answer: 1726,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-771044766",
+      url: "https://soundcloud.com/infinitexd3/1-51-gym-test",
       answer: 1727,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-588521923",
+      url: "https://soundcloud.com/infinitexd3/1-53-a-gym-leader-appears",
       answer: 1728,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-violet-ost-gym-leader-battle",
+      url: "https://soundcloud.com/infinitexd3/1-54-battle-gym-leader",
       answer: 1729,
     },
     {
@@ -18544,7 +18544,7 @@ var app = (function () {
       answer: 1731,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-wild-pokemon-battlewest-province",
+      url: "https://soundcloud.com/infinitexd3/1-79-battle-western-pokemon",
       answer: 1732,
     },
     {
@@ -18552,19 +18552,19 @@ var app = (function () {
       answer: 1733,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-violet-ost-tera-raid-battle-theme-hqq",
+      url: "https://soundcloud.com/infinitexd3/1-76-battle-tera-raid",
       answer: 1734,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-228943043",
+      url: "https://soundcloud.com/infinitexd3/1-77-victory-tera-raid",
       answer: 1735,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-452217262?",
+      url: "https://soundcloud.com/sv-dlc2/asado-desert-walking-pokemon",
       answer: 1736,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-cascarrafa-theme",
+      url: "https://soundcloud.com/infinitexd3/1-84-cascaraffa",
       answer: 1737,
     },
     {
@@ -18572,11 +18572,11 @@ var app = (function () {
       answer: 1738,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-violet-ost-titan-pokemon-battle",
+      url: "https://soundcloud.com/infinitexd3/1-58-battle-titan-pokemon",
       answer: 1739,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-233586473",
+      url: "https://soundcloud.com/infinitexd3/1-59-the-titans-on-the-move",
       answer: 1740,
     },
     {
@@ -18588,35 +18588,35 @@ var app = (function () {
       answer: 1742,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-medali-and-porto-marinada",
+      url: "https://soundcloud.com/infinitexd3/1-82-medali-porto-marinada",
       answer: 1743,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-a-friendly-encounter",
+      url: "https://soundcloud.com/infinitexd3/1-90-a-friendly-encounter",
       answer: 1744,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-violet-ost",
+      url: "https://soundcloud.com/sv-dlc2/east-province-riding-no-intro-pokemon-scarlet-violet-2",
       answer: 1745,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-wild-pokemon-battle-east-province",
+      url: "https://soundcloud.com/tkyo-berg/pokemon-scarlet-and-violet-8",
       answer: 1746,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-artazon",
+      url: "https://soundcloud.com/infinitexd3/1-49-artazon-zapapico",
       answer: 1747,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-levincia",
+      url: "https://soundcloud.com/infinitexd3/1-65-levincia",
       answer: 1748,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-violet-ost-5",
+      url: "https://soundcloud.com/infinitexd3/1-66-iono-zone",
       answer: 1749,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-violet-ost-1",
+      url: "https://soundcloud.com/sv-dlc2/east-province-area-three-no-intro-pokemon-scarlet-violet-1",
       answer: 1750,
     },
     {
@@ -18624,47 +18624,47 @@ var app = (function () {
       answer: 1751,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-tagtree-thicket",
+      url: "https://soundcloud.com/sv-dlc2/tagtree-thicket-no-intro-pokemon-scarlet-violet-5",
       answer: 1752,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-clives-theme",
+      url: "https://soundcloud.com/infinitexd3/1-69-clives-theme",
       answer: 1753,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-team-star-base",
+      url: "https://soundcloud.com/infinitexd3/1-70-preparing-for-the-star",
       answer: 1754,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-team-star-base-battle-theme",
+      url: "https://soundcloud.com/infinitexd3/1-71-star-barrage",
       answer: 1755,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-993736350",
+      url: "https://soundcloud.com/infinitexd3/1-72-a-team-star-boss-appears",
       answer: 1756,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-mela-team-star-battle-theme",
+      url: "https://soundcloud.com/infinitexd3/1-73-battle-team-star-boss",
       answer: 1757,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-736397964",
+      url: "https://soundcloud.com/infinitexd3/1-74-victory-team-star-boss",
       answer: 1758,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-unknown-theme",
+      url: "https://soundcloud.com/infinitexd3/1-75-a-year-and-a-half-ago",
       answer: 1759,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-north-province-riding",
+      url: "https://soundcloud.com/infiniteshadowx34/1-92-north-province-riding",
       answer: 1760,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-wild-pokemon-battle-north-province",
+      url: "https://soundcloud.com/infiniteshadowx34/1-93-battle-northern-pokemon",
       answer: 1761,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-montenevera",
+      url: "https://soundcloud.com/infiniteshadowx34/1-96-montenevera",
       answer: 1762,
     },
     {
@@ -18676,7 +18676,7 @@ var app = (function () {
       answer: 1764,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-north-province",
+      url: "https://soundcloud.com/infiniteshadowx34/1-91-north-province-walking",
       answer: 1765,
     },
     {
@@ -18684,11 +18684,11 @@ var app = (function () {
       answer: 1766,
     },
     // {
-    //  url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-casseroya-lake-riding",
+    //  url: "soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-casseroya-lake-riding",
     //  answer: -10,
     // },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-snow-slope-run",
+      url: "https://soundcloud.com/infiniteshadowx34/1-95-snow-slope-run-glaseado",
       answer: 1767,
     },
     {
@@ -18696,7 +18696,7 @@ var app = (function () {
       answer: 1768,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-alfornada",
+      url: "https://soundcloud.com/infinitexd3/1-88-alfornada",
       answer: 1769,
     },
     {
@@ -18704,19 +18704,19 @@ var app = (function () {
       answer: 1770,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-the-pokemon-league",
+      url: "https://soundcloud.com/infiniteshadowx34/1-108-pokemon-league-champion",
       answer: 1771,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-elite-four-room",
+      url: "https://soundcloud.com/infiniteshadowx34/1-109-pokemon-league-lobby",
       answer: 1772,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-elite-4-battle-theme",
+      url: "https://soundcloud.com/infiniteshadowx34/1-110-battle-elite-four",
       answer: 1773,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-champion-battle-theme",
+      url: "https://soundcloud.com/infiniteshadowx34/1-111-battle-top-champion",
       answer: 1774,
     },
     {
@@ -18724,27 +18724,27 @@ var app = (function () {
       answer: 1775,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-a-new-champion-is-born",
+      url: "https://soundcloud.com/infiniteshadowx34/1-113-a-new-champion-is-born",
       answer: 1776,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-violet-ost-nemonas-final-battle-theme",
+      url: "https://soundcloud.com/ssj4-beat/pokemon-scarlet-violet-nemona-final-battle-theme-hq",
       answer: 1777,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-nemona-is-beaten",
+      url: "https://soundcloud.com/infiniteshadowx34/1-115-victory-nemona",
       answer: 1778,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-director-clavell-battle-theme",
+      url: "https://soundcloud.com/infiniteshadowx34/1-102-battle-director-clavell",
       answer: 1779,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-clives-true-identity",
+      url: "https://soundcloud.com/infiniteshadowx34/1-103-director-clavells-secret",
       answer: 1780,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-257713154",
+      url: "https://soundcloud.com/infiniteshadowx34/1-104-battle-cassiopeia",
       answer: 1781,
     },
     {
@@ -18752,11 +18752,11 @@ var app = (function () {
       answer: 1782,
     },
     // {
-    //  url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-team-stars-farewell",
+    //  url: "soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-team-stars-farewell",
     //  answer: -11,
     // },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-pennys-resolve",
+      url: "https://soundcloud.com/infiniteshadowx34/1-105-cassiopeias-resolve",
       answer: 1783,
     },
     {
@@ -18768,19 +18768,19 @@ var app = (function () {
       answer: 1785,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-violet-ost-overworld-theme-area-zero",
+      url: "https://soundcloud.com/karninecrow/pokemon-scarlet-violet-area",
       answer: 1786,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-violet-ost-wild-pokemon-battle-area-zero",
+      url: "https://soundcloud.com/karninecrow/pokemon-scarlet-and-violet-2",
       answer: 1787,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-810044561",
+      url: "https://soundcloud.com/infiniteshadowx34/1-120-a-hostile-reunion",
       answer: 1788,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-paradox-pokemon-battle-theme",
+      url: "https://soundcloud.com/tkyo-berg/pokemon-scarlet-and-251987088",
       answer: 1789,
     },
     {
@@ -18788,7 +18788,7 @@ var app = (function () {
       answer: 1790,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-terra-raid-battle-theme-hq",
+      url: "https://soundcloud.com/user-657324383/pokemon-scarlet-and-violet-vs",
       answer: 1791,
     },
     {
@@ -18796,7 +18796,7 @@ var app = (function () {
       answer: 1792,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-892915294",
+      url: "https://soundcloud.com/infiniteshadowx34/1-125-who-are-you-really",
       answer: 1793,
     },
     {
@@ -18812,15 +18812,15 @@ var app = (function () {
       answer: 1796,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-825533146",
+      url: " https://soundcloud.com/infinitexd3/1-87-arvens-true-desire",
       answer: 1797,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-returning-to-the-past-and-future",
+      url: "https://soundcloud.com/infiniteshadowx34/1-129-farewell-my-free",
       answer: 1798,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-violet-ost-2",
+      url: "https://soundcloud.com/infiniteshadowx34/1-130-moving-from-the-past",
       answer: 1799,
     },
     {
@@ -18832,39 +18832,39 @@ var app = (function () {
       answer: 1801,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-ace-academy-tournament-battle",
+      url: "https://soundcloud.com/user-657324383/pokemon-scarlet-and-violet",
       answer: 1802,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-mystery-gift",
+      url: "https://soundcloud.com/infinitexd3/1-33-mystery-gift",
       answer: 1803,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-416408453",
+      url: "https://soundcloud.com/infinitexd3/1-83-link-battle-start",
       answer: 1804,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-ruin-legendary-battle-theme",
+      url: "https://soundcloud.com/infiniteshadowx34/1-134-battle-legendary-pokemon",
       answer: 1805,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-title-screen",
+      url: "https://soundcloud.com/infinitexd3/1-1-main-theme",
       answer: 1806,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-591611068",
+      url: "https://soundcloud.com/ya-boi-tart/carmine-theme-pok-mon-scarlet",
       answer: 1807,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-843161973",
+      url: "https://soundcloud.com/ya-boi-tart/battle-carmine-pok-mon-scarlet",
       answer: 1808,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-violet-the-2",
+      url: "https://soundcloud.com/sv-dlc2/mossui-town-scarletviolet-the-teal-mask-1",
       answer: 1809,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-342037150",
+      url: "https://soundcloud.com/ya-boi-tart/battle-kieran-pok-mon-scarlet",
       answer: 1810,
     },
     {
@@ -18872,7 +18872,7 @@ var app = (function () {
       answer: 1811,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-393914917",
+      url: "https://soundcloud.com/ya-boi-tart/battle-kitakami-region-pok-mon",
       answer: 1812,
     },
     {
@@ -18888,19 +18888,19 @@ var app = (function () {
       answer: 1815,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-violet-the-1",
+      url: "https://soundcloud.com/sv-dlc2/perrins-theme-scarletviolet-the-teal-mask-2",
       answer: 1816,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-violet-the-9",
+      url: "https://soundcloud.com/ya-boi-tart/fearsome-orge-folktale-pok-mon",
       answer: 1817,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-violet-the-7",
+      url: "https://soundcloud.com/ya-boi-tart/kieran-theme-pok-mon-scarlet",
       answer: 1818,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-violet-the-6",
+      url: "https://soundcloud.com/sv-dlc2/festival-of-masks-scarletviolet-the-teal-mask-3",
       answer: 1819,
     },
     {
@@ -18912,11 +18912,11 @@ var app = (function () {
       answer: 1821,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-291427546",
+      url: "https://soundcloud.com/sv-dlc2/the-real-history-scarletviolet-the-teal-mask-4",
       answer: 1822,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-834546791",
+      url: "https://soundcloud.com/ya-boi-tart/crystal-pool-pok-mon-scarlet",
       answer: 1823,
     },
     {
@@ -18928,19 +18928,19 @@ var app = (function () {
       answer: 1825,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-violet-the-4",
+      url: "https://soundcloud.com/sv-dlc2/the-loyal-three-wreak-havoc-scarletviolet-the-teal-mask-5",
       answer: 1826,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-429101160",
+      url: "https://soundcloud.com/ya-boi-tart/battle-loyal-three-pok-mon",
       answer: 1827,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-164810716",
+      url: "https://soundcloud.com/ya-boi-tart/battle-kieran-final-pok-mon",
       answer: 1828,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-431791152",
+      url: "https://soundcloud.com/user-398209245/battle-ogerpon-pokemon-scarlet-and-violet-the-teal-mask-dlc",
       answer: 1829,
     },
     {
@@ -18956,127 +18956,127 @@ var app = (function () {
       answer: 1832,
     },
     {
-      url: "https://soundcloud.com/user-675036643/pokemon-scarlet-277051784",
+      url: "https://soundcloud.com/sv-dlc2/6-17-briars-theme-pokemon",
       answer: 1833,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/5-30-blueberry-academy-pokemon?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/5-30-blueberry-academy-pokemon",
       answer: 1834,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/5-31-to-the-dome-pokemon?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/5-31-to-the-dome-pokemon",
       answer: 1835,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/5-32-this-is-the-terrarium?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/5-32-this-is-the-terrarium",
       answer: 1836,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/5-33-terarium-savanna-biome?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/5-33-terarium-savanna-biome",
       answer: 1837,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/5-34-battle-pokemon-in-the?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/5-34-battle-pokemon-in-the",
       answer: 1838,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/5-35-terarium-coastal-biome?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/5-35-terarium-coastal-biome",
       answer: 1839,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/5-37-battle-academy-trainer?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/5-37-battle-academy-trainer",
       answer: 1840,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-01-terarium-central-plaza?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-01-terarium-central-plaza",
       answer: 1841,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-02-unsettling-atmosphere?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-02-unsettling-atmosphere",
       answer: 1842,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-03-daily-life-at-the-academy?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-03-daily-life-at-the-academy",
       answer: 1843,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-04-blueberry-academy-your?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-04-blueberry-academy-your",
       answer: 1844,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-06-terarium-canyon-biome?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-06-terarium-canyon-biome",
       answer: 1845,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-07-battle-tera-pokemon-in?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-07-battle-tera-pokemon-in",
       answer: 1846,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-08-flying-time-trial-pokemon?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-08-flying-time-trial-pokemon",
       answer: 1847,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-09-you-completed-the-elite?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-09-you-completed-the-elite",
       answer: 1848,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-10-terarium-polar-biome?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-10-terarium-polar-biome",
       answer: 1849,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-11-battle-bb-league-elite?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-11-battle-bb-league-elite",
       answer: 1850,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-12-victory-bb-league-elite?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-12-victory-bb-league-elite",
       answer: 1851,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-13-true-intentions-pokemon?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-13-true-intentions-pokemon",
       answer: 1852,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-14-the-battle-begins-pokemon?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-14-the-battle-begins-pokemon",
       answer: 1853,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-15-battle-champion-kieran?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-15-battle-champion-kieran",
       answer: 1854,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-16-the-defeated-kieran?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-16-the-defeated-kieran",
       answer: 1855,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-18-area-zero-underdepths?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-18-area-zero-underdepths",
       answer: 1856,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-19-terapagos-comes-back-to?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-19-terapagos-comes-back-to",
       answer: 1857,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-20-battle-terapagos-pokemon?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-20-battle-terapagos-pokemon",
       answer: 1858,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-21-conditions-of-the-hidden?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-21-conditions-of-the-hidden",
       answer: 1859,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-22-terapagos-goes-rampage?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-22-terapagos-goes-rampage",
       answer: 1860,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-23-battle-terapagos-stellar?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-23-battle-terapagos-stellar",
       answer: 1861,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-24-caught-the-terapagos?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-24-caught-the-terapagos",
       answer: 1862,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-25-once-again-starting-from?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-25-once-again-starting-from",
       answer: 1863,
     },
     {
@@ -19084,31 +19084,31 @@ var app = (function () {
       answer: 1864,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-26-star-training-centers?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-26-star-training-centers",
       answer: 1865,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-27-relic-song-pokemon?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-27-relic-song-pokemon",
       answer: 1866,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-29-a-village-curse-pokemon?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-29-a-village-curse-pokemon",
       answer: 1867,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-30-mochi-mayhem-pokemon?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-30-mochi-mayhem-pokemon",
       answer: 1868,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-31-a-drone-a-pokemon-its-a?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-31-a-drone-a-pokemon-its-a",
       answer: 1869,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-32-battle-pecharunt-pokemon?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-32-battle-pecharunt-pokemon",
       answer: 1870,
     },
     {
-      url: "https://soundcloud.com/sv-dlc2/6-33-title-screen-2-pokemon?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+      url: "https://soundcloud.com/sv-dlc2/6-33-title-screen-2-pokemon",
       answer: 1871,
     },
   ];
