@@ -6,7 +6,7 @@ A clone of [Heardle](https://www.heardle.app/), and [K-Pop Heardle](https://hear
 
 Each music is randomly chosen from Pokémon's soundtrack.
 
-code edited from: [WJSN Heardle](https://github.com/haseul/wjsn-heardle)
+code edited from: [WJSN Heardle](https://github.com/jeroldcamacho/wjsn-heardle)
 <br />
 <br />
 HOW TO RUN INFINITE HEARDLE LOCALLY:
@@ -49,7 +49,7 @@ Un clone de [Heardle](https://www.heardle.app/), et de [K-Pop Heardle](https://h
 
 Chaque musique est choisie au hasard dans la bande-son de Pokémon.
 
-code édité à partir de : [WJSN Heardle](https://github.com/haseul/wjsn-heardle)
+code édité à partir de : [WJSN Heardle](https://github.com/jeroldcamacho/wjsn-heardle)
 <br />
 <br />
 COMMENT FAIRE TOURNER INFINITE HEARDLE EN LOCAL:

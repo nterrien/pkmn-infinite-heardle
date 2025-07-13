@@ -653,8 +653,8 @@ video {
     overflow: hidden
 }
 
-.overflow-scroll {
-    overflow: scroll
+.overflow-auto {
+    overflow: auto
 }
 
 .rounded-sm {

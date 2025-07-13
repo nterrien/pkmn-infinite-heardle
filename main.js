@@ -23318,7 +23318,7 @@ var app = (function () {
               ? M(
                   i,
                   "style",
-                  "width: fit-content; height: calc(100% - 80px); overflow-y: scroll;"
+                  "width: fit-content; height: calc(100% - 80px); overflow-y: auto;"
                 )
               : M(
                   i,
@@ -23866,7 +23866,7 @@ var app = (function () {
           M(r, "class", "flex justify-center items-center mt-6 mb-1"),
           M(a, "class", "text-custom-negative"),
           M(o, "class", "pb-6"),
-          M(i, "class", "text-custom-mg text-xs h-32 overflow-scroll relative"),
+          M(i, "class", "text-custom-mg text-xs h-32 overflow-auto relative"),
           M(d, "class", "absolute h-6 bottom-0 w-full border-custom-fg "),
           T(
             d,
