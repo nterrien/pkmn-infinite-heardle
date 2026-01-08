@@ -13403,7 +13403,7 @@ var app = (function () {
       answer: 456,
     },
     {
-      url: "https://soundcloud.com/jalyn894/pokemon-platinum-giratina-battle-music",
+      url: "https://soundcloud.com/giratina-405005217/pokemon-platinum-battle-giratina-used",
       answer: 457,
     },
     {
@@ -14123,7 +14123,7 @@ var app = (function () {
       answer: 635,
     },
     {
-      url: "https://soundcloud.com/the-redinkling/the-dreamyard-pokemon-black",
+      url: "https://soundcloud.com/goosegasss/the-dreamyard-pokemon-black",
       answer: 636,
     },
     {
