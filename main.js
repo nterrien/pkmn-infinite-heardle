@@ -17,6 +17,8 @@ var app = (function () {
     removeTags = JSON.parse(localStorage.getItem("removeTags"));
   }
 
+  // allTags, musicNameList are defined in music-list.js and musicListWithLinks is defined in music-links.js
+
   let filteredMusicNameList = [];
 
   // Bug : Sometimes musics stops appearing in suggestions, it seems that musics dissapears at the end of the array
@@ -34,6 +36,8 @@ var app = (function () {
   let filteredMusicListWithLinks = [];
   filterMusicLists();
   var firstLoad = true;
+
+  // Translation constants are in translation.js
 
   function listenToT(music) {
     const template = listenToTranslation[language];
