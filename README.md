@@ -4,7 +4,7 @@
 
 A clone of [Heardle](https://www.heardle.app/), and [K-Pop Heardle](https://heardle-kpop.glitch.me/) which can be played infinitely and with Pokémon's musics. Based on [Joywave Heardle](https://joywave-heardle.glitch.me/)
 
-Each music is randomly chosen from Pokémon's soundtrack.
+Each music is randomly chosen from Pokémon's soundtrack. The code for the volume bar come from [Video Games Infinite Heardle](https://keraloon.github.io/infinitevideogame/).
 
 code edited from: [WJSN Heardle](https://github.com/jeroldcamacho/wjsn-heardle)
 <br />
@@ -41,7 +41,7 @@ HOW TO MAKE YOUR OWN INFINITE HEARDLE (UDPATED on **2026/01/09**)
 
 Un clone de [Heardle](https://www.heardle.app/), et de [K-Pop Heardle](https://heardle-kpop.glitch.me/) qui peut être joué à l'infini et avec les musiques de Pokémon. Basé sur [Joywave Heardle](https://joywave-heardle.glitch.me/)
 
-Chaque musique est choisie au hasard dans la bande-son de Pokémon.
+Chaque musique est choisie au hasard dans la bande-son de Pokémon. Le code pour la bar de volume viens du [Video Games Infinite Heardle](https://keraloon.github.io/infinitevideogame/).
 
 code édité à partir de : [WJSN Heardle](https://github.com/jeroldcamacho/wjsn-heardle)
 <br />
