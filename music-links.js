@@ -1672,7 +1672,7 @@ var musicListWithLinks = [
         answer: 416,
     },
     {
-        url: "https://soundcloud.com/takablestream50/poke-mon-diamond-pearl-ost",
+        url: "https://soundcloud.com/beignet3/amity-square-pokemon-diamondpearl",
         answer: 417,
     },
     {
@@ -5436,7 +5436,7 @@ var musicListWithLinks = [
         answer: 1351,
     },
     {
-        url: "https://soundcloud.com/user-681426033/battle-master-trainer-pokemon-lets-go-pikachu-lets-go-eevee",
+        url: "https://soundcloud.com/beignet3/battle-master-trainer-lets-go-pikachueevee",
         answer: 1352,
     },
     {
@@ -5700,7 +5700,7 @@ var musicListWithLinks = [
         answer: 1417,
     },
     {
-        url: "https://soundcloud.com/lordofthehoodies/pokemon-sword-shield-piers-battle-theme",
+        url: "https://soundcloud.com/beignet3/battle-gym-leader-piers-swordshield",
         answer: 1418,
     },
     {
