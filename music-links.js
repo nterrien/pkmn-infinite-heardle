@@ -1796,23 +1796,23 @@ var musicListWithLinks = [
     //  answer: -2,
     // },
     {
-        url: "https://soundcloud.com/user-545759109/opening-title-screen-poke-mon",
+        url: "https://soundcloud.com/beignet3/418-title-screen-pokemon-platinum-1",
         answer: 447,
     },
     {
-        url: "https://soundcloud.com/giratina-405005217/pokemon-platinum-press-start-used",
+        url: "https://soundcloud.com/beignet3/419-press-start-pokemon-platinum-2",
         answer: 448,
     },
     {
-        url: "https://soundcloud.com/diamondpearl-886539488/special-program-lets-ask-prof",
+        url: "https://soundcloud.com/beignet3/420-special-program-lets-ask-prof-rowan-pokemon-platinum-3",
         answer: 449,
     },
     {
-        url: "https://soundcloud.com/user-545759109/lookers-theme-poke-mon",
+        url: "https://soundcloud.com/beignet3/421-lookers-theme-pokemon-platinum-4",
         answer: 450,
     },
     {
-        url: "https://soundcloud.com/diamondpearl-886539488/global-terminal-pokemon",
+        url: "https://soundcloud.com/beignet3/422-global-terminal-pokemon-platinum-5",
         answer: 451,
     },
     {
@@ -1828,15 +1828,15 @@ var musicListWithLinks = [
         answer: 454,
     },
     {
-        url: "https://soundcloud.com/user-545759109/giratina-appears-part-1-poke",
+        url: "https://soundcloud.com/beignet3/427-giratina-appears-pokemon-platinum-10",
         answer: 455,
     },
     {
-        url: "https://soundcloud.com/giratina-405005217/pokemon-platinum-the-distortion-world",
+        url: "https://soundcloud.com/beignet3/429-distortion-world-pokemon-platinum-12",
         answer: 456,
     },
     {
-        url: "https://soundcloud.com/giratina-405005217/pokemon-platinum-battle-giratina-used",
+        url: "https://soundcloud.com/beignet3/430-battle-giratina-pokemon-platinum-13",
         answer: 457,
     },
     {
@@ -1844,59 +1844,59 @@ var musicListWithLinks = [
         answer: 458,
     },
     {
-        url: "https://soundcloud.com/tower-hero-gamer-lol/mystery-gift-pokemon-platinum",
+        url: "https://soundcloud.com/beignet3/432-mystery-gift-pokemon-platinum-15",
         answer: 459,
     },
     {
-        url: "https://soundcloud.com/user-545759109/super-contest-cute-division",
+        url: "https://soundcloud.com/beignet3/433-super-contest-cuteness-pokemon-platinum-16",
         answer: 460,
     },
     {
-        url: "https://soundcloud.com/user-545759109/super-contest-cool-division",
+        url: "https://soundcloud.com/beignet3/434-super-contest-coolness-pokemon-platinum-17",
         answer: 461,
     },
     {
-        url: "https://soundcloud.com/user-545759109/super-contest-tough-division",
+        url: "https://soundcloud.com/beignet3/435-super-contest-toughness-pokemon-platinum-18",
         answer: 462,
     },
     {
-        url: "https://soundcloud.com/user-545759109/super-contest-beauty-division",
+        url: "https://soundcloud.com/beignet3/436-super-contest-beauty-pokemon-platinum-19",
         answer: 463,
     },
     {
-        url: "https://soundcloud.com/user-545759109/super-contest-smart-division",
+        url: "https://soundcloud.com/beignet3/437-super-contest-smartness-pokemon-platinum-20",
         answer: 464,
     },
     {
-        url: "https://soundcloud.com/user-545759109/villa-twinleaf-town-music-box",
+        url: "https://soundcloud.com/beignet3/438-villa-music-box-twinleaf-tune-pokemon-platinum-21",
         answer: 465,
     },
     {
-        url: "https://soundcloud.com/user-545759109/villa-lilycove-city-bossa-nova",
+        url: "https://soundcloud.com/beignet3/439-villa-audio-system-bossa-nova-lilycove-pokemon-platinum-22",
         answer: 466,
     },
     {
-        url: "https://soundcloud.com/user-545759109/fight-area-battle-frontier",
+        url: "https://soundcloud.com/beignet3/440-fight-area-battle-frontier-pokemon-platinum-23",
         answer: 467,
     },
     {
-        url: "https://soundcloud.com/user-545759109/battle-arcade-poke-mon",
+        url: "https://soundcloud.com/beignet3/441-battle-arcade-pokemon-platinum-24",
         answer: 468,
     },
     {
-        url: "https://soundcloud.com/user-545759109/battle-hall-poke-mon-platinum",
+        url: "https://soundcloud.com/beignet3/443-battle-hall-pokemon-platinum-26",
         answer: 469,
     },
     {
-        url: "https://soundcloud.com/user-545759109/battle-factory-poke-mon",
+        url: "https://soundcloud.com/beignet3/444-battle-factory-pokemon-platinum-27",
         answer: 470,
     },
     {
-        url: "https://soundcloud.com/user-545759109/battle-castle-poke-mon",
+        url: "https://soundcloud.com/beignet3/445-battle-castle-pokemon-platinum-28",
         answer: 471,
     },
     {
-        url: "https://soundcloud.com/apersonwhoexists1212/pokemon-platinum-battle-frontier-brain-music-hq",
+        url: "https://soundcloud.com/beignet3/448-battle-frontier-brain-pokemon-platinum-31",
         answer: 472,
     },
     {
@@ -3264,7 +3264,7 @@ var musicListWithLinks = [
         answer: 810,
     },
     {
-        url: "https://soundcloud.com/user-545759109/poke-mon-world-tournament-1",
+        url: "https://soundcloud.com/beignet3/pokemon-world-tournament-black-2-white-2",
         answer: 811,
     },
     {
